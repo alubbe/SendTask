@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  todo: MyString
+  createdat: 2013-02-26 21:54:16
+  completed: false
+  completedat: 2013-02-26 21:54:16
+
+two:
+  todo: MyString
+  createdat: 2013-02-26 21:54:16
+  completed: false
+  completedat: 2013-02-26 21:54:16
